@@ -1,0 +1,7 @@
+D:\MyFirstGit\MyFirstConsole\MyFirstConsole\bin\Debug\MyFirstConsole.exe.config
+D:\MyFirstGit\MyFirstConsole\MyFirstConsole\bin\Debug\MyFirstConsole.exe
+D:\MyFirstGit\MyFirstConsole\MyFirstConsole\bin\Debug\MyFirstConsole.pdb
+D:\MyFirstGit\MyFirstConsole\MyFirstConsole\obj\Debug\MyFirstConsole.csprojAssemblyReference.cache
+D:\MyFirstGit\MyFirstConsole\MyFirstConsole\obj\Debug\MyFirstConsole.csproj.CoreCompileInputs.cache
+D:\MyFirstGit\MyFirstConsole\MyFirstConsole\obj\Debug\MyFirstConsole.exe
+D:\MyFirstGit\MyFirstConsole\MyFirstConsole\obj\Debug\MyFirstConsole.pdb
